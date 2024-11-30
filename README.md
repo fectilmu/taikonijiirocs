@@ -1,6 +1,6 @@
 # TJAPlayer3-Develop-ReWrite
 DTXManiaをいじってtja再生プログラムにしちゃった[TJAPlayer2fPC](https://github.com/kairera0467/TJAP2fPC)をForkして本家風に改造した
-[TJAPlayer3](https://github.com/AioiLight/TJAPlayer3)を超本家風に改造したアレを書き直したもの。
+[TJAPlayer3](https://github.com/AioiLight/TJAPlayer3)を超本家風に改造したアレを書き直して、また書き直したもの
 
 このプログラムを使用した不具合・問題については責任を負いかねます。
 
